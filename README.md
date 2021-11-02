@@ -9,3 +9,4 @@
 * [Exception Explorer](https://github.com/stegru/ExceptionExplorer) - Static code analyser for .NET to detect unhandled exceptions. `C#`
 * [hexedit](https://github.com/stegru/hexedit) - Hex editor in the browser: [hexedit.uk](http://hexedit.uk). `Dart`
 * [pov.net](https://github.com/stegru/pov.net) - Scene generator for the povray raytracer. `C#`
+* [Host and Guest Integration](https://github.com/stegru/hagi) - Makes virtual machines less isolated. `C#`
