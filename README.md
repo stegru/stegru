@@ -6,6 +6,7 @@
 * [WindowsSettingsTool](https://github.com/stegru/WindowsSettingsTool) - Applies settings used in the Windows Settings app (new Control Panel). `C#`
 * [Morphic TrayButton](https://github.com/stegru/Morphic.TrayButton) - Adds a button to the taskbar. `C`
 
+
 * [Exception Explorer](https://github.com/stegru/ExceptionExplorer) - Static code analyser for .NET to detect unhandled exceptions. `C#`
 * [hexedit](https://github.com/stegru/hexedit) - Hex editor in the browser: [hexedit.uk](http://hexedit.uk). `Dart`
 * [pov.net](https://github.com/stegru/pov.net) - Scene generator for the povray raytracer. `C#`
